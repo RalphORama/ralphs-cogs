@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Ralph Drake",
+    "SHORT" : "Allows users to send Discord messages as emails",
+    "DESCRIPTION" : "Use Mailgun to send `n` previous messages as an email to a specified address",
+    "DISABLED" : false,
+    "NAME" : "Mailgun",
+    "TAGS" : ["communication"],
+    "INSTALL_MSG" : "`[p]mailgun <address>` to send the previous message to `address`.\n`[p]mailgun <address> <n>` to send `n` messages to `address`."
+}

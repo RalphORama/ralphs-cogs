@@ -1,0 +1,20 @@
+{
+    "key": "",
+    "domain": "",
+    "allowed_extensions":
+    [
+        ".png",
+        ".jpg",
+        ".gif"
+    ],
+    "banned_addresses":
+    [
+        "discordapp.com",
+        "whitehouse.gov"
+    ],
+    "banned_keywords":
+    [
+        "fuck",
+        "bomb"
+    ]
+}

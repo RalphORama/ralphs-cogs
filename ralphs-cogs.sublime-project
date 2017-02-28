@@ -1,0 +1,28 @@
+{
+    "SublimeLinter":
+    {
+        "@python": 3.5,
+        "linters":
+        {
+            "pep8":
+            {
+                "@disable": false,
+                "max-line-length": 512
+            }
+        }
+    },
+	"folders":
+	[
+		{
+			"path": "."
+		},
+        {
+            "path": "./antidupe/",
+            "name": "Anti-Dupe"
+        },
+        {
+            "path": "./mailgun/",
+            "name": "Mailgun"
+        }
+	]
+}
